@@ -1,8 +1,11 @@
 # xorEncryptDecryptASC
 
 Echipa noastra: Brabetzii
+
 Echipa adversa: BitFlip
+
 Cheia: arhsistcalc2021
+
 
 Partea 1
 
